@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0d458c5-f0f4-4dbb-a75a-ad4cd1818631" name="Default" comment="更新" />
-    <list id="d228e8db-e88c-4f18-8454-05642605bed6" name="New changelist" comment="">
+    <list default="true" id="c0d458c5-f0f4-4dbb-a75a-ad4cd1818631" name="Default" comment="更新">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UML/Spring.uml" afterPath="$PROJECT_DIR$/UML/Spring.uml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Spring.iws" />
@@ -639,13 +639,13 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c0d458c5-f0f4-4dbb-a75a-ad4cd1818631" name="Default" comment="" />
-      <changelist id="d228e8db-e88c-4f18-8454-05642605bed6" name="New changelist" comment="" />
+      <changelist id="" name="New changelist" comment="" />
       <created>1475897690955</created>
       <option name="number" value="Default" />
       <updated>1475897690955</updated>
       <workItem from="1475935013553" duration="29000" />
       <workItem from="1476000281436" duration="17222000" />
-      <workItem from="1476068146180" duration="28484000" />
+      <workItem from="1476068146180" duration="28574000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1476000703087</created>
@@ -791,11 +791,17 @@
       <option name="project" value="LOCAL" />
       <updated>1476113239050</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="更新">
+      <created>1476113273910</created>
+      <option name="number" value="00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1476113273910</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45735000" />
+    <option name="totallyTimeSpent" value="45825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -851,9 +857,9 @@
     <MESSAGE value="ReflectionUtils完成" />
     <MESSAGE value="ResourceUtils完成" />
     <MESSAGE value="AbstractFileResolvingResource完成" />
-    <MESSAGE value="更新" />
     <MESSAGE value="完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成" />
+    <MESSAGE value="更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
