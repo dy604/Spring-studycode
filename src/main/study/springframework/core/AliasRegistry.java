@@ -11,5 +11,5 @@ public interface AliasRegistry {
 
     boolean isAlias(String beanName);
 
-    String[] getAlias(String name);
+    String[] getAliases(String name);
 }
