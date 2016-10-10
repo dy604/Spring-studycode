@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0d458c5-f0f4-4dbb-a75a-ad4cd1818631" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/commons-logging.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/io/ByteArrayResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/io/ContextResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/io/DescriptiveResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/io/FileSystemResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_logging.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UML/Spring.uml" afterPath="$PROJECT_DIR$/UML/Spring.uml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Spring.iml" afterPath="$PROJECT_DIR$/Spring.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Spring.iws" />
@@ -36,27 +28,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AbstractResource.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AbstractResource.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/io/AbstractResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="400" max-vertical-offset="2128">
-              <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.3233618" vertical-offset="400" max-vertical-offset="2128">
+              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#3077#3078#0" expanded="true" />
                 <element signature="e#3127#3128#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractFileResolvingResource.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/io/AbstractFileResolvingResource.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.54131055" vertical-offset="0" max-vertical-offset="2774">
-              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -596,7 +576,7 @@
       <updated>1475897690955</updated>
       <workItem from="1475935013553" duration="29000" />
       <workItem from="1476000281436" duration="17222000" />
-      <workItem from="1476068146180" duration="11966000" />
+      <workItem from="1476068146180" duration="12029000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1476000703087</created>
@@ -664,11 +644,17 @@
       <option name="project" value="LOCAL" />
       <updated>1476081627531</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="更新">
+      <created>1476081674255</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1476081674255</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29217000" />
+    <option name="totallyTimeSpent" value="29280000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -723,10 +709,10 @@
     <MESSAGE value="ClassUtils完成" />
     <MESSAGE value="ReflectionUtils完成" />
     <MESSAGE value="ResourceUtils完成" />
-    <MESSAGE value="更新" />
     <MESSAGE value="AbstractFileResolvingResource完成" />
     <MESSAGE value="完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成" />
+    <MESSAGE value="更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1102,24 +1088,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/io/AbstractResource.java">
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/io/AbstractFileResolvingResource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="400" max-vertical-offset="2128">
-          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.37891737" vertical-offset="0" max-vertical-offset="2774">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3077#3078#0" expanded="true" />
-            <element signature="e#3127#3128#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/io/AbstractFileResolvingResource.java">
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/io/AbstractResource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54131055" vertical-offset="0" max-vertical-offset="2774">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.3233618" vertical-offset="400" max-vertical-offset="2128">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#3077#3078#0" expanded="true" />
+            <element signature="e#3127#3128#0" expanded="true" />
           </folding>
         </state>
       </provider>
