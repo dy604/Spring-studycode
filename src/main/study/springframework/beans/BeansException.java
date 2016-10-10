@@ -7,7 +7,6 @@ package study.springframework.beans;
 import study.springframework.core.NestedRuntimeException;
 import study.springframework.util.ObjectUtils;
 
-x
 public abstract class BeansException extends NestedRuntimeException {
 
     public BeansException(String msg) {
