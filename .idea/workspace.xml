@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0d458c5-f0f4-4dbb-a75a-ad4cd1818631" name="Default" comment="">
+    <list default="true" id="c0d458c5-f0f4-4dbb-a75a-ad4cd1818631" name="Default" comment="更新" />
+    <list id="d228e8db-e88c-4f18-8454-05642605bed6" name="New changelist" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Spring.iws" />
@@ -27,22 +28,7 @@
     <favorites_list name="Spring" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="AbstractResource.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/io/AbstractResource.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3233618" vertical-offset="400" max-vertical-offset="2128">
-              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3077#3078#0" expanded="true" />
-                <element signature="e#3127#3128#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,6 +67,25 @@
         <option value="$PROJECT_DIR$/src/main/study/springframework/core/io/VfsUtils.java" />
         <option value="$PROJECT_DIR$/src/main/study/springframework/core/io/VfsResource.java" />
         <option value="$PROJECT_DIR$/src/main/study/springframework/core/io/AbstractFileResolvingResource.java" />
+        <option value="$PROJECT_DIR$/src/main/study/springframework/core/io/ClassPathResource.java" />
+        <option value="$PROJECT_DIR$/src/main/study/springframework/core/io/UrlResource.java" />
+        <option value="$PROJECT_DIR$/src/main/study/springframework/core/NestedRuntimeException.java" />
+        <option value="$PROJECT_DIR$/src/main/study/springframework/beans/factory/xml/XmlBeanFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/study/springframework/util/StringValueResolver.java" />
+        <option value="$PROJECT_DIR$/src/main/study/springframework/core/SimpleAliasRegistry.java" />
+        <option value="$PROJECT_DIR$/src/main/study/springframework/core/AliasRegistry.java" />
+        <option value="$PROJECT_DIR$/src/main/study/springframework/beans/factory/config/SingletonBeanRegistry.java" />
+        <option value="$PROJECT_DIR$/src/main/study/springframework/beans/factory/ObjectFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/study/springframework/beans/factory/BeanCreationException.java" />
+        <option value="$PROJECT_DIR$/src/main/study/springframework/beans/BeansException.java" />
+        <option value="$PROJECT_DIR$/src/main/study/springframework/beans/FatalBeanException.java" />
+        <option value="$PROJECT_DIR$/src/main/study/springframework/beans/BeanCreationException.java" />
+        <option value="$PROJECT_DIR$/src/main/study/springframework/beans/factory/BeanCreationNotAllowedException.java" />
+        <option value="$PROJECT_DIR$/src/main/study/springframework/beans/factory/BeanCurrentlyInCreationException.java" />
+        <option value="$PROJECT_DIR$/src/main/study/springframework/beans/factory/DisposableBean.java" />
+        <option value="$PROJECT_DIR$/src/main/study/springframework/beans/factory/BeanFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/study/springframework/beans/factory/NoSuchBeanDefinitionException.java" />
+        <option value="$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java" />
       </list>
     </option>
   </component>
@@ -114,7 +119,7 @@
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
+      <flattenPackages ProjectPane="true" />
       <showMembers />
       <showModules />
       <showLibraryContents />
@@ -189,11 +194,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springframework" />
+              <option name="myItemId" value="util" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -208,44 +209,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springframework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Spring-studycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Spring-studycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springframework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -267,7 +230,111 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spring-studycode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spring-studycode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spring-studycode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spring-studycode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="support" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spring-studycode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spring-studycode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spring-studycode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spring-studycode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="factory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spring-studycode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spring-studycode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="beans" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spring-studycode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spring-studycode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -308,6 +375,7 @@
     <property name="FullScreen" value="false" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/SpringSourceCode/Spring-studycode/src/main/study/springframework/beans/BeansException.java" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -571,12 +639,13 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c0d458c5-f0f4-4dbb-a75a-ad4cd1818631" name="Default" comment="" />
+      <changelist id="d228e8db-e88c-4f18-8454-05642605bed6" name="New changelist" comment="" />
       <created>1475897690955</created>
       <option name="number" value="Default" />
       <updated>1475897690955</updated>
       <workItem from="1475935013553" duration="29000" />
       <workItem from="1476000281436" duration="17222000" />
-      <workItem from="1476068146180" duration="12029000" />
+      <workItem from="1476068146180" duration="28484000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1476000703087</created>
@@ -650,11 +719,83 @@
       <option name="project" value="LOCAL" />
       <updated>1476081674255</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="更新">
+      <created>1476081707909</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1476081707909</updated>
+    </task>
+    <task id="LOCAL-00014" summary="完成">
+      <created>1476086662744</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1476086662744</updated>
+    </task>
+    <task id="LOCAL-00015" summary="完成">
+      <created>1476086853906</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1476086853906</updated>
+    </task>
+    <task id="LOCAL-00016" summary="完成">
+      <created>1476103697804</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1476103697804</updated>
+    </task>
+    <task id="LOCAL-00017" summary="完成">
+      <created>1476104660141</created>
+      <option name="number" value="00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1476104660141</updated>
+    </task>
+    <task id="LOCAL-00018" summary="完成">
+      <created>1476104679866</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1476104679866</updated>
+    </task>
+    <task id="LOCAL-00019" summary="更新">
+      <created>1476104812951</created>
+      <option name="number" value="00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1476104812951</updated>
+    </task>
+    <task id="LOCAL-00020" summary="完成">
+      <created>1476105735108</created>
+      <option name="number" value="00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1476105735108</updated>
+    </task>
+    <task id="LOCAL-00021" summary="完成">
+      <created>1476106183138</created>
+      <option name="number" value="00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1476106183138</updated>
+    </task>
+    <task id="LOCAL-00022" summary="完成">
+      <created>1476106210544</created>
+      <option name="number" value="00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1476106210544</updated>
+    </task>
+    <task id="LOCAL-00023" summary="完成">
+      <created>1476106706324</created>
+      <option name="number" value="00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1476106706324</updated>
+    </task>
+    <task id="LOCAL-00024" summary="完成">
+      <created>1476113239050</created>
+      <option name="number" value="00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1476113239050</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29280000" />
+    <option name="totallyTimeSpent" value="45735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -674,7 +815,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2944126" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19340974" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -710,9 +851,9 @@
     <MESSAGE value="ReflectionUtils完成" />
     <MESSAGE value="ResourceUtils完成" />
     <MESSAGE value="AbstractFileResolvingResource完成" />
-    <MESSAGE value="完成" />
     <MESSAGE value="更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新" />
+    <MESSAGE value="完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -735,114 +876,11 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/io/AbstractResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1615">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3077#3078#0" expanded="true" />
-            <element signature="e#3127#3128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="19" max-vertical-offset="133">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/io/InputStreamSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="285">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/io/Resource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="646">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/io/AbstractResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="589" max-vertical-offset="1672">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3077#3078#0" expanded="true" />
-            <element signature="e#3127#3128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/util/ResourceUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1064">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/io/InputStreamSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="285">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/io/Resource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="646">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/io/AbstractResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="589" max-vertical-offset="1672">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3077#3078#0" expanded="true" />
-            <element signature="e#3127#3128#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/util/ResourceUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1064">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/bean/MyTestBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/beanFactoryTest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
@@ -919,6 +957,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0625" vertical-offset="346" max-vertical-offset="7315">
           <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#2065#2066#0" expanded="true" />
+            <element signature="e#2125#2126#0" expanded="true" />
+            <element signature="e#9434#9442#0" expanded="true" />
+            <element signature="e#9550#9551#0" expanded="true" />
+            <element signature="e#9601#9602#0" expanded="true" />
+            <element signature="e#9838#9846#0" expanded="true" />
+            <element signature="e#14149#14150#0" expanded="true" />
+            <element signature="e#14198#14199#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -927,11 +978,11 @@
         <state vertical-scroll-proportion="0.41452992" vertical-offset="1191" max-vertical-offset="11685">
           <caret line="78" column="23" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1041#1059#0" expanded="true" />
-            <element signature="e#1164#1182#0" expanded="true" />
-            <element signature="e#1990#2000#0" expanded="true" />
-            <element signature="e#22660#22667#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1041#1059#0" expanded="false" />
+            <element signature="e#1164#1182#0" expanded="false" />
+            <element signature="e#1990#2000#0" expanded="false" />
+            <element signature="e#22660#22667#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -976,34 +1027,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/util/StringUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06267806" vertical-offset="5998" max-vertical-offset="11685">
-          <caret line="338" column="29" selection-start-line="338" selection-start-column="21" selection-end-line="338" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/io/FileSystemResource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7037037" vertical-offset="0" max-vertical-offset="2128">
           <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#797#798#0" expanded="true" />
-            <element signature="e#829#830#0" expanded="true" />
-            <element signature="e#874#875#0" expanded="true" />
-            <element signature="e#915#916#0" expanded="true" />
-            <element signature="e#964#965#0" expanded="true" />
-            <element signature="e#1036#1037#0" expanded="true" />
-            <element signature="e#1856#1857#0" expanded="true" />
-            <element signature="e#1898#1899#0" expanded="true" />
-            <element signature="e#1950#1951#0" expanded="true" />
-            <element signature="e#2017#2018#0" expanded="true" />
-            <element signature="e#2065#2066#0" expanded="true" />
-            <element signature="e#2138#2139#0" expanded="true" />
-            <element signature="e#2512#2513#0" expanded="true" />
-            <element signature="e#2555#2556#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#797#798#0" expanded="false" />
+            <element signature="e#829#830#0" expanded="false" />
+            <element signature="e#874#875#0" expanded="false" />
+            <element signature="e#915#916#0" expanded="false" />
+            <element signature="e#964#965#0" expanded="false" />
+            <element signature="e#1036#1037#0" expanded="false" />
+            <element signature="e#1856#1857#0" expanded="false" />
+            <element signature="e#1898#1899#0" expanded="false" />
+            <element signature="e#1950#1951#0" expanded="false" />
+            <element signature="e#2017#2018#0" expanded="false" />
+            <element signature="e#2065#2066#0" expanded="false" />
+            <element signature="e#2138#2139#0" expanded="false" />
+            <element signature="e#2512#2513#0" expanded="false" />
+            <element signature="e#2555#2556#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1013,7 +1056,7 @@
         <state vertical-scroll-proportion="0.21258742" vertical-offset="0" max-vertical-offset="715">
           <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1023,17 +1066,17 @@
         <state vertical-scroll-proportion="0.54131055" vertical-offset="0" max-vertical-offset="1045">
           <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-            <element signature="e#832#833#0" expanded="true" />
-            <element signature="e#871#872#0" expanded="true" />
-            <element signature="e#1129#1130#0" expanded="true" />
-            <element signature="e#1179#1180#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#326#327#0" expanded="false" />
+            <element signature="e#401#402#0" expanded="false" />
+            <element signature="e#446#447#0" expanded="false" />
+            <element signature="e#474#475#0" expanded="false" />
+            <element signature="e#523#524#0" expanded="false" />
+            <element signature="e#551#552#0" expanded="false" />
+            <element signature="e#832#833#0" expanded="false" />
+            <element signature="e#871#872#0" expanded="false" />
+            <element signature="e#1129#1130#0" expanded="false" />
+            <element signature="e#1179#1180#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1100,12 +1143,277 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/io/AbstractResource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3233618" vertical-offset="400" max-vertical-offset="2128">
-          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.32478634" vertical-offset="0" max-vertical-offset="2128">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#3077#3078#0" expanded="true" />
             <element signature="e#3127#3128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_05/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="23079" max-vertical-offset="40413">
+          <caret line="1302" column="23" selection-start-line="1302" selection-start-column="23" selection-end-line="1302" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/io/UrlResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1483" max-vertical-offset="2185">
+          <caret line="83" column="19" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2403#2404#0" expanded="true" />
+            <element signature="e#2464#2465#0" expanded="true" />
+            <element signature="e#2516#2517#0" expanded="true" />
+            <element signature="e#2563#2564#0" expanded="true" />
+            <element signature="e#2803#2804#0" expanded="true" />
+            <element signature="e#2852#2853#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/io/ClassPathResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="173" max-vertical-offset="2774">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_05/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="4421" max-vertical-offset="22097">
+          <caret line="271" column="6" selection-start-line="271" selection-start-column="6" selection-end-line="271" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_05/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54985756" vertical-offset="19564" max-vertical-offset="118066">
+          <caret line="1130" column="51" selection-start-line="1130" selection-start-column="51" selection-end-line="1130" selection-end-column="51" />
+          <folding>
+            <element signature="e#48122#48123#0" expanded="false" />
+            <element signature="e#48173#48174#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_05/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33286715" vertical-offset="4056" max-vertical-offset="11001">
+          <caret line="251" column="12" selection-start-line="251" selection-start-column="12" selection-end-line="251" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/util/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44159544" vertical-offset="7841" max-vertical-offset="11685">
+          <caret line="451" column="44" selection-start-line="451" selection-start-column="38" selection-end-line="451" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/beans/factory/xml/XmlBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="532">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/util/StringValueResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23916084" vertical-offset="0" max-vertical-offset="715">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/AliasRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34545454" vertical-offset="0" max-vertical-offset="715">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_05/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33286715" vertical-offset="503" max-vertical-offset="10165">
+          <caret line="62" column="41" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/SimpleAliasRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4059829" vertical-offset="0" max-vertical-offset="2299">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#500#516#0" expanded="true" />
+            <element signature="e#1809#1817#0" expanded="true" />
+            <element signature="e#2619#2635#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/beans/factory/config/SingletonBeanRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13286713" vertical-offset="0" max-vertical-offset="715">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/beans/BeansException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="798">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/NestedRuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3233618" vertical-offset="609" max-vertical-offset="1311">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+          <folding>
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_05/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33903134" vertical-offset="7761" max-vertical-offset="19665">
+          <caret line="453" column="34" selection-start-line="453" selection-start-column="34" selection-end-line="453" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/beans/FatalBeanException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13286713" vertical-offset="0" max-vertical-offset="715">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/beans/BeanCreationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="2356">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/beans/factory/ObjectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23916084" vertical-offset="0" max-vertical-offset="715">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/beans/factory/BeanCreationNotAllowedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13286713" vertical-offset="0" max-vertical-offset="715">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/beans/factory/BeanCurrentlyInCreationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37891737" vertical-offset="0" max-vertical-offset="702">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/beans/factory/DisposableBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13286713" vertical-offset="0" max-vertical-offset="715">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/beans/factory/NoSuchBeanDefinitionException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2962963" vertical-offset="248" max-vertical-offset="1064">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#185#212#0" expanded="true" />
+            <element signature="e#1450#1451#0" expanded="true" />
+            <element signature="e#1486#1487#0" expanded="true" />
+            <element signature="e#1523#1524#0" expanded="true" />
+            <element signature="e#1559#1560#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/beans/factory/BeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27065527" vertical-offset="0" max-vertical-offset="703">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2977208" vertical-offset="0" max-vertical-offset="6859">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="e#1105#1121#0" expanded="true" />
+            <element signature="e#1205#1228#0" expanded="true" />
+            <element signature="e#1308#1324#0" expanded="true" />
+            <element signature="e#1401#1409#0" expanded="true" />
+            <element signature="e#1508#1525#0" expanded="true" />
+            <element signature="e#1620#1637#0" expanded="true" />
+            <element signature="e#1830#1846#0" expanded="true" />
+            <element signature="e#1934#1955#0" expanded="true" />
+            <element signature="e#2045#2066#0" expanded="true" />
+            <element signature="e#2162#2183#0" expanded="true" />
+            <element signature="e#7375#7376#0" expanded="true" />
+            <element signature="e#7443#7444#0" expanded="true" />
+            <element signature="e#8410#8411#0" expanded="true" />
+            <element signature="e#8473#8474#0" expanded="true" />
           </folding>
         </state>
       </provider>
