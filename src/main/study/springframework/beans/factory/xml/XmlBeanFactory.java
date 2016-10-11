@@ -1,6 +1,7 @@
 package study.springframework.beans.factory.xml;
 
 import study.springframework.beans.BeansException;
+import study.springframework.beans.factory.BeanFactory;
 import study.springframework.core.io.Resource;
 
 /**
