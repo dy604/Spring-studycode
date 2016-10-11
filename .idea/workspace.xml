@@ -2,36 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0d458c5-f0f4-4dbb-a75a-ad4cd1818631" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/convert/AbstractDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/AttributeAccessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/AttributeAccessorSupport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/config/BeanDefinition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/BeanDefinitionRegistry.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/config/BeanExpressionContext.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/config/BeanExpressionResolver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/BeanMetadataAttribute.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/BeanMetadataAttributeAccessor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/config/ConfigurableBeanFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/config/ConstructorArgumentValues.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/convert/ConversionService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/FactoryBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/FactoryBeanNotInitializedException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/FactoryBeanRegistrySupport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/GenericCollectionTypeResolver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/HierarchicalBeanFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/ListableBeanFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/Mergeable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/MethodParameter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/MutablePropertyValues.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/convert/ParameterDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/ParameterNameDiscoverer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/PropertyValue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/PropertyValues.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/config/Scope.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/convert/TypeDescriptor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/xml/XmlBeanFactory.java" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/xml/XmlBeanFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/AbstractBeanFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UML/Spring.~ml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\SpringSourceCode\Spring-studycode\src\main\study\springframework\beans\BeanMetadateElement.java" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/BeanMetadataElement.java" />
     </list>
     <ignored path="Spring.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,112 +29,7 @@
     <favorites_list name="Spring" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="FactoryBeanRegistrySupport.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/FactoryBeanRegistrySupport.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2432">
-              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-              <folding>
-                <element signature="e#828#844#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BeanDefinitionRegistry.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/BeanDefinitionRegistry.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="589">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractBeanFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/AbstractBeanFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="96" max-vertical-offset="1178">
-              <caret line="30" column="29" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1303#1346#0" expanded="true" />
-                <element signature="e#1435#1456#0" expanded="true" />
-                <element signature="e#1680#1695#0" expanded="true" />
-                <element signature="e#1970#1987#0" expanded="true" />
-                <element signature="e#2084#2092#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConversionService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/convert/ConversionService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="418">
-              <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TypeDescriptor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/convert/TypeDescriptor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="381" max-vertical-offset="1083">
-              <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#420#446#0" expanded="true" />
-                <element signature="e#2135#2136#0" expanded="true" />
-                <element signature="e#2197#2198#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ParameterDescriptor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/convert/ParameterDescriptor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="571" max-vertical-offset="1273">
-              <caret line="58" column="33" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenericCollectionTypeResolver.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/GenericCollectionTypeResolver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18945868" vertical-offset="1482" max-vertical-offset="4598">
-              <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3218#3219#0" expanded="true" />
-                <element signature="e#3286#3287#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractDescriptor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/convert/AbstractDescriptor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1919">
-              <caret line="85" column="45" selection-start-line="85" selection-start-column="45" selection-end-line="85" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -220,7 +88,6 @@
         <option value="$PROJECT_DIR$/src/main/study/springframework/beans/PropertyValue.java" />
         <option value="$PROJECT_DIR$/src/main/study/springframework/beans/PropertyValues.java" />
         <option value="$PROJECT_DIR$/src/main/study/springframework/beans/MutablePropertyValues.java" />
-        <option value="$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/AbstractBeanFactory.java" />
         <option value="$PROJECT_DIR$/src/main/study/springframework/core/convert/ConversionService.java" />
         <option value="$PROJECT_DIR$/src/main/study/springframework/core/convert/TypeDescriptor.java" />
         <option value="$PROJECT_DIR$/src/main/study/springframework/core/ParameterNameDiscoverer.java" />
@@ -228,6 +95,7 @@
         <option value="$PROJECT_DIR$/src/main/study/springframework/core/convert/AbstractDescriptor.java" />
         <option value="$PROJECT_DIR$/src/main/study/springframework/core/convert/ParameterDescriptor.java" />
         <option value="$PROJECT_DIR$/src/main/study/springframework/core/GenericCollectionTypeResolver.java" />
+        <option value="$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/AbstractBeanFactory.java" />
       </list>
     </option>
   </component>
@@ -883,7 +751,7 @@
       <workItem from="1475935013553" duration="29000" />
       <workItem from="1476000281436" duration="17222000" />
       <workItem from="1476068146180" duration="28597000" />
-      <workItem from="1476156384434" duration="23502000" />
+      <workItem from="1476156384434" duration="23567000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1476000703087</created>
@@ -1047,11 +915,17 @@
       <option name="project" value="LOCAL" />
       <updated>1476174778159</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="完成">
+      <created>1476195717344</created>
+      <option name="number" value="00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1476195717344</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69350000" />
+    <option name="totallyTimeSpent" value="69415000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -1070,7 +944,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25501433" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25501433" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1224,14 +1098,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13286713" vertical-offset="0" max-vertical-offset="715">
           <caret line="5" column="38" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/beans/factory/ObjectFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23916084" vertical-offset="0" max-vertical-offset="715">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -1551,24 +1417,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/AbstractBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="96" max-vertical-offset="1178">
-          <caret line="30" column="29" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1303#1346#0" expanded="true" />
-            <element signature="e#1435#1456#0" expanded="true" />
-            <element signature="e#1680#1695#0" expanded="true" />
-            <element signature="e#1970#1987#0" expanded="true" />
-            <element signature="e#2084#2092#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/convert/ConversionService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="418">
+        <state vertical-scroll-proportion="0.2923077" vertical-offset="0" max-vertical-offset="715">
           <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
           <folding />
         </state>
@@ -1643,7 +1494,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/convert/TypeDescriptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="381" max-vertical-offset="1083">
+        <state vertical-scroll-proportion="0.7293447" vertical-offset="381" max-vertical-offset="1083">
           <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1664,7 +1515,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/convert/AbstractDescriptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1919">
+        <state vertical-scroll-proportion="2.2464387" vertical-offset="0" max-vertical-offset="1919">
           <caret line="85" column="45" selection-start-line="85" selection-start-column="45" selection-end-line="85" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1674,7 +1525,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/study/springframework/core/convert/ParameterDescriptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="571" max-vertical-offset="1273">
+        <state vertical-scroll-proportion="0.75641024" vertical-offset="571" max-vertical-offset="1273">
           <caret line="58" column="33" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1699,6 +1550,29 @@
             <element signature="e#3218#3219#0" expanded="true" />
             <element signature="e#3286#3287#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/AbstractBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="1197">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1364#1407#0" expanded="true" />
+            <element signature="e#1496#1517#0" expanded="true" />
+            <element signature="e#1741#1756#0" expanded="true" />
+            <element signature="e#2031#2048#0" expanded="true" />
+            <element signature="e#2145#2153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/beans/factory/ObjectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2923077" vertical-offset="0" max-vertical-offset="715">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
