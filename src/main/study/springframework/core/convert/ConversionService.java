@@ -12,5 +12,4 @@ public interface ConversionService {
     <T> T convert(Object source, Class<T> targetType);
 
     Object convert(Object source, TypeDescriptor sourceType, TypeDescriptor targetType);
-
 }
