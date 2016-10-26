@@ -2,15 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0d458c5-f0f4-4dbb-a75a-ad4cd1818631" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/AbstractBeanFactory.java" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/AbstractBeanFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/study/springframework/core/convert/ConversionService.java" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/convert/ConversionService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/study/springframework/core/convert/TypeDescriptor.java" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/convert/TypeDescriptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/AbstractBeanDefinition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/AutowireCandidateQualifier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/config/AutowireCapableBeanFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/BeanDefinitionDefaults.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/config/BeanDefinitionHolder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/BeanDefinitionResource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/BeanDefinitionValidationException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/BeanFactoryUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/BeanNotOfRequiredTypeException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/config/BeanPostProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/convert/BeanPropertyDescriptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/propertyeditors/CharsetEditor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/propertyeditors/ClassArrayEditor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/convert/ClassDescriptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/propertyeditors/ClassEditor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/util/ConcurrentReferenceHashMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/propertyeditors/CurrencyEditor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/config/DependencyDescriptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/config/DestructionAwareBeanPostProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/ErrorCoded.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/convert/FieldDescriptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/propertyeditors/FileEditor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/GenericTypeResolver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/config/InstantiationAwareBeanPostProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/MethodOverride.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/MethodOverrides.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/NamedThreadLocal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/convert/Property.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/PropertyAccessException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/PropertyAccessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/PropertyAccessorUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/PropertyEditorRegistrar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/PropertyEditorRegistry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/PropertyEditorRegistrySupport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/core/io/ResourceEditor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/RootBeanDefinition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/support/SecurityContextProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/factory/SmartFactoryBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/TypeConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/study/springframework/beans/TypeMismatchException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Spring.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="E:/Program Files/JavaWeb/provider/target/" />
+    <ignored path="E:/Program Files/JavaWeb/consumer/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,6 +150,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -141,6 +184,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -174,7 +218,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UML" />
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -189,6 +233,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -241,36 +289,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Spring-studycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Spring-studycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springframework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -378,74 +396,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="springframework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beans" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="factory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="support" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Spring-studycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Spring-studycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="springframework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beans" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="factory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Spring-studycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Spring-studycode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="bean" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -463,10 +413,13 @@
               <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="commons-logging.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -477,7 +430,7 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/Program Files/JavaWeb/provider/pom.xml" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
     <property name="OverrideImplement.combined" value="true" />
@@ -753,7 +706,10 @@
       <workItem from="1476000281436" duration="17222000" />
       <workItem from="1476068146180" duration="28597000" />
       <workItem from="1476156384434" duration="23848000" />
-      <workItem from="1476534219723" duration="344000" />
+      <workItem from="1476534219723" duration="2222000" />
+      <workItem from="1477292394727" duration="31000" />
+      <workItem from="1477296551806" duration="85000" />
+      <workItem from="1477463661343" duration="127000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1476000703087</created>
@@ -935,11 +891,17 @@
       <option name="project" value="LOCAL" />
       <updated>1476534362262</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="完成">
+      <created>1476534596579</created>
+      <option name="number" value="00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1476534596579</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70040000" />
+    <option name="totallyTimeSpent" value="72161000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -948,17 +910,16 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15725806" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33452722" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15725806" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25501433" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25501433" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -970,6 +931,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1155,25 +1117,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27065527" vertical-offset="0" max-vertical-offset="6783">
           <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-          <folding>
-            <element signature="e#1105#1121#0" expanded="true" />
-            <element signature="e#1205#1228#0" expanded="true" />
-            <element signature="e#1308#1324#0" expanded="true" />
-            <element signature="e#1401#1409#0" expanded="true" />
-            <element signature="e#1508#1525#0" expanded="true" />
-            <element signature="e#1620#1637#0" expanded="true" />
-            <element signature="e#1830#1846#0" expanded="true" />
-            <element signature="e#1934#1955#0" expanded="true" />
-            <element signature="e#2045#2066#0" expanded="true" />
-            <element signature="e#2162#2183#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/beans/factory/config/ConfigurableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27065527" vertical-offset="0" max-vertical-offset="702">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -1293,7 +1236,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2923077" vertical-offset="0" max-vertical-offset="715">
           <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1329,9 +1271,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7293447" vertical-offset="381" max-vertical-offset="1083">
           <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1374,9 +1313,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="115" max-vertical-offset="1197">
           <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1391,10 +1327,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.2991453" vertical-offset="3553" max-vertical-offset="11723">
           <caret line="145" column="27" selection-start-line="145" selection-start-column="27" selection-end-line="145" selection-end-column="27" />
-          <folding>
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1402,7 +1334,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3897436" vertical-offset="0" max-vertical-offset="31540">
           <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/study/springframework/beans/factory/config/ConfigurableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2977208" vertical-offset="0" max-vertical-offset="702">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
     </entry>
